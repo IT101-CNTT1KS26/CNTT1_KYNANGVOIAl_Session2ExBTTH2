@@ -2,7 +2,6 @@
 
 ## PHẦN 1: THIẾT KẾ SYSTEM PROMPT (CHUẨN KHUNG CREATE)
 
-Bạn có thể cấu hình trực tiếp đoạn Prompt này cho AI:
 
 ```text
 [Context / Character]
